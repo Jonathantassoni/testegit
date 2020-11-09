@@ -1,1 +1,1 @@
-console.log("Hellow Word com git")
+console.log("Hellow Word!")
